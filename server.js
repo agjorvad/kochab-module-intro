@@ -3,7 +3,7 @@ const numberArray = require('./number-array'); //import an array
 const addinator = require('./addinator'); //import a function
 const creature = require('./creature'); // import a class
 const multipleThings = require('./multiple-things'); // import an object
-console.log(multipleThings.mantisShrimp);
+console.log(multipleThings);
 const killerWhale = new creature('killer whale', 'Scary');
 console.log(killerWhale);
 
